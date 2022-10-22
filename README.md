@@ -1,4 +1,4 @@
-# ⌨️ `OLIVER CARLOS` 
+# ⌨️ `OLIVER CARLOS` [![](https://visitcount.itsvg.in/api?id=olvrcrls&icon=2&color=0)](https://visitcount.itsvg.in)
 ### [olivercarlos.com](https://olivercarlos.com) <br><br>
 Individual who codes for fun and at the same time for life commitments.<br><br>
 A member of the IT industry who values collaboration and a team-oriented workplace.
@@ -17,6 +17,3 @@ He is a firm believer that teamwork and effort produce the best results for all 
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
----
-[![](https://visitcount.itsvg.in/api?id=olvrcrls&icon=2&color=0)](https://visitcount.itsvg.in)
