@@ -1,4 +1,5 @@
-# ⌨️ [OLIVER CARLOS](https://olivercarlos.com):
+# ⌨️ `OLIVER CARLOS` 
+### [olivercarlos.com](https://olivercarlos.com) <br><br>
 Individual who codes for fun and at the same time for life commitments.<br><br>
 A member of the IT industry who values collaboration and a team-oriented workplace.
 He is a firm believer that teamwork and effort produce the best results for all initiatives, and he will put forth all of his effort to support businesses or clients in order to acquire a consistent flow of monthly or yearly income and revenue.
